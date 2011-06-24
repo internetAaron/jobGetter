@@ -1,0 +1,133 @@
+
+
+.header {
+	width: 100%;
+	display: inline-block;
+	color: #ffffff;
+	border-bottom: 1px solid #222222;
+	background: url('../img/site/noise.png'), #333;
+	background-color: #333;
+}
+
+.banner {
+	margin: 0;
+	padding: 16px 0;
+	display: block;
+	color: #002A35;
+	border-top: 1px solid #babcbc;
+	border-bottom: 1px solid #737474;
+	background: url('../img/site/noise.png'), #999;
+	background-color: #999;
+}
+
+.banner h2 {
+	color: #002A35;
+	margin: 0 0 0 0;
+	font: black 1.7em TitilliumText22LLight;
+}
+
+.banner div.container p {
+	color: #ffffff;
+	font-size: 1.1em;
+	margin-bottom: 10px;
+}
+
+
+
+.contentArea {
+	margin: 0;
+	padding: 16px 0;
+	color: #002B36;
+	border-top: 1px solid #f5f7f7;
+	border-bottom: 1px solid #d8dada;
+	background: url('../img/site/noise.png'), #efefef;
+  	background-color: #efefef;
+}
+
+div.work {
+	margin: 0;
+	padding: 16px 0;
+	color: #002B36;
+	border-top: 1px solid #f5f7f7;
+	border-bottom: 1px solid #d8dada;
+	background: url('../img/site/noise.png'), #efefef;
+  	background-color: #efefef;
+}
+
+.interestingFacts {
+	margin: 0;
+	padding: 16px 0;
+	color: #002B36;
+	border-top: 1px solid #f5f7f7;
+	border-bottom: 1px solid #d8dada;
+	background: url('../img/site/noise.png'), #efefef;
+  	background-color: #efefef;
+}
+
+
+
+
+
+/* @group yourCompany */
+
+.yourCompany span {
+	float: left;
+	font-size: 5.0em;
+	font-weight: bold;
+	color: #586e75;
+	position: relative;
+	bottom: 20px;
+	text-shadow: 0px -2px -2px #777777;
+}
+
+.yourCompany h2 span {
+	font-size: 2.0em;
+}
+
+.yourCompany div.text {
+	margin: 0 0 0 60px;
+}
+
+.yourCompany li {
+	clear: both;
+}
+
+/* @end */
+
+.interestingFacts td span {
+	float: left;
+	width: 45%;
+	padding: 0;
+	margin: 20px 0 0 0;
+	text-align: center;
+	font-size: 4.0em;
+	color: #586e75;
+	font-weight: bold;
+	text-shadow: 0px -2px -2px #777777;
+}
+
+a {
+	color: #597d0a;
+}
+
+.mainColor {
+	color: #597d0a;
+}
+
+.secondaryColor {
+	color: #586e75;
+}
+
+
+
+
+
+footer {
+	width: 100%;
+	display: inline-block;
+	color: #ffffff;
+	border-top: 1px solid #aaacac;
+	padding: 0 0 12px 0;
+	background: url('../img/site/noise.png'), #333;
+	background-color: #333;
+}
